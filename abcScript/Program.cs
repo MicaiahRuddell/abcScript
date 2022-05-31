@@ -45,9 +45,7 @@ namespace abcScript
                     Console.WriteLine("The new alphabet list contains {0} elements: ", abcOutputs.Count);
 
                 }
-            }
-            
-            
+            }            
         }
     }
 }
