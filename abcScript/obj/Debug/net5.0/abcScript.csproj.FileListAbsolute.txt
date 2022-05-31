@@ -1,0 +1,16 @@
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.csprojAssemblyReference.cache
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.AssemblyInfoInputs.cache
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.AssemblyInfo.cs
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.csproj.CoreCompileInputs.cache
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.exe
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.deps.json
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.runtimeconfig.json
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.runtimeconfig.dev.json
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.dll
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\ref\abcScript.dll
+C:\Users\micai\source\repos\abcScript\abcScript\bin\Debug\net5.0\abcScript.pdb
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.dll
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\ref\abcScript.dll
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.pdb
+C:\Users\micai\source\repos\abcScript\abcScript\obj\Debug\net5.0\abcScript.genruntimeconfig.cache
